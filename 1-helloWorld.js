@@ -1,8 +1,8 @@
 //1 of 18 Hello World
 
-//Write a function that takes an input string and returns it uppercased.
+//Task : Write a function that takes an input string and returns it uppercased.
 
-// My Solution
+//My Solution
 
 function upperCaser(input) {
 
