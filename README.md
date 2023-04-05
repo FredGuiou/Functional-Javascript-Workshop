@@ -6,4 +6,6 @@ Some pratice exercices based on Javascript language and the repo made by Timoxle
 
 Follow the instruction to install the app and try yourself.
 
+The app give you some hints.
+
 Enjoy 🙂.
